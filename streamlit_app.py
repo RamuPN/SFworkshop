@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.tiltle("This is sample for snowflake workshop..");
+streamlit.title('This is sample for snowflake workshop..')
