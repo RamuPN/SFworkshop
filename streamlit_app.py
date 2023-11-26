@@ -1,6 +1,6 @@
 import streamlit
 import pandas
-Streamlit.title('Snowflake Workshop Streamlit')
+streamlit.title('Snowflake Workshop Streamlit')
 streamlit.header('Breakfast Favourites')
 streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
